@@ -4,6 +4,6 @@
 
 # Vorname Nachname
 
-- Kommt aus: …
-- Warum DiBSE: …
-- Fun Fact: …
+- Kommt aus: Imst (ursprünglich aus Ungarn😇)
+- Warum DiBSE: Wegen Bachelor Vertiefung bzw. bessere Aufstiegschancen
+- Fun Fact: mein 5km best sind 19 Minuten und 24 Sekunden🏃🥳‍️
