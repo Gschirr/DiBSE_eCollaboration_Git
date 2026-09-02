@@ -2,9 +2,9 @@
 
 
 
-\- Kommt aus: …
+\- Kommt aus: Entenhausen
 
-\- Warum DiBSE: …
+\- Warum DiBSE: Why not study at the top?
 
-\- Fun Fact: …
+\- Fun Fact: Durchschnittlich entsprechen die meisten Leute nicht dem Durchschnitt
 
