@@ -2,8 +2,8 @@
      (DEIN Name, klein, mit Unterstrich) und liegt auch in jahrgang_2026/.
      Diese Vorlagen-Datei bitte nicht verändern! -->
 
-# Vorname Nachname
+# Manuel Raffl
 
-- Kommt aus: …
-- Warum DiBSE: …
-- Fun Fact: …
+- Kommt aus: Haiming
+- Warum DiBSE: Weil coding cool ist
+- Fun Fact: 1 == 1 --> true
