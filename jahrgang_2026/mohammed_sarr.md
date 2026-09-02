@@ -2,8 +2,8 @@
      (DEIN Name, klein, mit Unterstrich) und liegt auch in jahrgang_2026/.
      Diese Vorlagen-Datei bitte nicht verändern! -->
 
-# Manuel Raffl
+# Mohammed Sarr
 
-- Kommt aus: Haiming
-- Warum DiBSE: Weil coding cool ist
-- Fun Fact: 1 == 1 --> true
+- Kommt aus: Tirol
+- Warum DiBSE: Internationale Karrieremoeglichkeiten / Entrepeneurship
+- Fun Fact: Gamer und Nerd mit Leidenschaft 
